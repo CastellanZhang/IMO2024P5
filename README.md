@@ -1,0 +1,2 @@
+# IMO2024P5
+IMO2024, Problem 5
